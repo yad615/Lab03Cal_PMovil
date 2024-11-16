@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LaboratorioCalificado03</string>
+    <string name="teacher_photo">Foto del profesor</string>
+    <string name="error_loading_teachers">Error al cargar los profesores</string>
+    <string name="error_request">Error en la solicitud: %1$s</string>
+    <string name="email_subject">Consulta sobre clases</string>
+    <string name="send_email">Enviar correo</string>
+</resources>
